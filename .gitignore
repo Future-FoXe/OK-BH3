@@ -8,6 +8,7 @@ fonts
 data2
 # Byte-compiled / optimized / DLL files
 .idea/
+.vscode/
 data_export
 data_import
 __pycache__/
